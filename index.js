@@ -32,9 +32,7 @@ const head = `
         width: 40;
       }
       #button {
-        height: 60;
         width: 80;
-        background-color: "#9999FF";
       }
     </style>
   </head>
